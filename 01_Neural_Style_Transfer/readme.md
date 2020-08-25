@@ -19,6 +19,6 @@ The network is usually a pre-trained convolutional neural network, from which we
 When training, the input content image goes through the network and returns content and style data, which are compared with the labels to generate one weighted loss. With gradient descent we can then modify the input content image to minimize the loss, trying to keep the content while change the style as close to the label as possible.
 
 <figure>
-<img src="https://tensorflow.org/tutorials/generative/images/stylized-image.png" style="width: 500px;"/>
+<img src="https://tensorflow.org/tutorials/generative/images/stylized-image.png" width=""/>
 <figcaption>output transfered image</figcaption>
 </figure>
