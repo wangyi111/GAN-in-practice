@@ -5,12 +5,12 @@ Neural style transfer means composing one image in the style of another image (e
 The algorithm takes one content image to be tranfered and one style image to be based on as inputs.
 
 <figure>
-<img src="https://storage.googleapis.com/download.tensorflow.org/example_images/YellowLabradorLooking_new.jpg" alt="input content image" style="width: 500px;"/>
+<img align="center" src="https://storage.googleapis.com/download.tensorflow.org/example_images/YellowLabradorLooking_new.jpg" width="500"/>
 <figcaption>input content image</figcaption>
 </figure>
 
 <figure>
-<img src="https://storage.googleapis.com/download.tensorflow.org/example_images/Vassily_Kandinsky%2C_1913_-_Composition_7.jpg" alt="input style image" style="width: 500px;"/>
+<img align="center" src="https://storage.googleapis.com/download.tensorflow.org/example_images/Vassily_Kandinsky%2C_1913_-_Composition_7.jpg" alt="input style image" width="500"/>
 <figcaption>input style image</figcaption>
 </figure>
 
