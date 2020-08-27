@@ -11,5 +11,11 @@ This repository is a collection of pratices and corresponding papers related to 
 **02: Deep Dream** --- transfer an image to dream-like style via exciting intermediate features based on the blog [Inceptionism: Going Deeper into Neural Networks](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html).
 
 <figure>
-<img src="https://www.tensorflow.org/tutorials/generative/images/dogception.png" alt="output image" width="500px"/>
+<img src="https://www.tensorflow.org/tutorials/generative/images/dogception.png"  width="500px"/>
+</figure>
+
+**03: DCGAN** --- train a [generative adversarial network](https://arxiv.org/pdf/1511.06434.pdf) to generate handwriting numbers.
+
+<figure>
+<img src="https://tensorflow.org/images/gan/dcgan.gif" width="500px"/>
 </figure>
