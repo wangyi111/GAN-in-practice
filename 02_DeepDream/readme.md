@@ -8,5 +8,5 @@ Using different layers will result in different dream-like images. Deeper layers
 
 <figure>
 <img src="https://www.tensorflow.org/tutorials/generative/images/dogception.png" alt="output image" width="500px"/>
-<figcaption>an example of output dream-like image</figcaption>
+<figcaption>dream-like image by enhancing intermediate layer features</figcaption>
 </figure>
