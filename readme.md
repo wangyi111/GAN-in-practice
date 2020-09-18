@@ -40,3 +40,8 @@ This repository is a collection of tutorials and pratices related to Generative 
 
 ![CVAE image latent space](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/generative/images/cvae_latent_space.jpg?raw=1)
 
+**08: [U-GAT-IT](./08_UGATIT/)** --- improved unpaired image style transfer based on [**Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)**](https://arxiv.org/abs/1907.10830).
+
+![U-GAT-IT example](./08_UGATIT/assets/teaser.png)
+
+
