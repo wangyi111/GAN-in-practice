@@ -86,6 +86,8 @@ VAEs can be implemented in several different styles and of varying complexity. Y
 
 If you'd like to learn more about the details of VAEs, please refer to [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691).
 
+Refer to https://www.zhihu.com/collection/207328287 for a short explanation blog of VAE.
+
 
 
 
