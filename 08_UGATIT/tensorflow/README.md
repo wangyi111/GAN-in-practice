@@ -66,7 +66,7 @@ This repository provides the **official Tensorflow implementation** of the follo
 ```
 > python main.py --dataset selfie2anime --phase test
 ```
-### [Colab implementation](./UGATIT-colab.ipynb)
+### [Colab implementation](./UGATIT_colab.ipynb)
 
 
 ## Architecture
