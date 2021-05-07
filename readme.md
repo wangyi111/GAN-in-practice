@@ -36,7 +36,7 @@ This repository is a collection of tutorials and pratices related to Generative 
 
 ![Adversarial Example](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/generative/images/adversarial_example.png?raw=1)
 
-**07: [AutoEncoder](./07_AutoEncoder/)** --- Latent space based image reconstruction and generation with autoencoder and [variational autoencoder](https://arxiv.org/abs/1906.02691). (addition: take a look at [conditional VAE](https://towardsdatascience.com/understanding-conditional-variational-autoencoders-cd62b4f57bf8))
+**07: [AutoEncoder](./07_AutoEncoder/)** --- Latent space based image reconstruction and generation with autoencoder (AE) and [variational autoencoder (VAE)](https://arxiv.org/abs/1906.02691). (addition: take a look at [conditional VAE](https://towardsdatascience.com/understanding-conditional-variational-autoencoders-cd62b4f57bf8))
 
 ![CVAE image latent space](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/generative/images/cvae_latent_space.jpg?raw=1)
 
